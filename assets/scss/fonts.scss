@@ -1,0 +1,51 @@
+	@font-face {
+	font-family: "Orchidea Pro";
+	src: url("..//fonts/Orchidea Pro-Medium/OrchideaPro-Medium.eot");
+	src: url("..//fonts/Orchidea Pro-Medium/OrchideaPro-Medium.eot?#iefix") format("embedded-opentype"),
+		url("../fonts/Orchidea Pro-Medium/OrchideaPro-Medium.ttf") format("truetype"), 
+		url("../fonts/Orchidea Pro-Medium/OrchideaPro-Medium.woff") format("woff"), 
+		url("../fonts/Orchidea Pro-Medium/OrchideaPro-Medium.woff2") format("woff2"); 
+	font-weight: 500;
+	font-style: medium;
+}
+
+@font-face {
+	font-family: "Roboto Light";
+	src: url("../fonts/Roboto-light/roboto-light.eot");
+	src: url("../fonts/Roboto-light/roboto-light.eot?#iefix") format("embedded-opentype"),
+		url("../fonts/Roboto-light/roboto-light.otf") format("opentype"), 
+		url("../fonts/Roboto-light/roboto-light.svg") format("svg"), 
+		url("../fonts/Roboto-light/roboto-light.ttf") format("truetype"), 
+		url("../fonts/Roboto-light/roboto-light.woff") format("woff"), 
+		url("../fonts/Roboto-light/roboto-light.woff2") format("woff2"); 
+	font-weight: 300;
+	font-style: Light;
+}
+
+@font-face {
+	font-family: "Roboto Regular";
+	src: url("../fonts/Roboto-regular/roboto-regular.eot");
+	src: url("../fonts/Roboto-regular/roboto-regular.eot?#iefix") format("embedded-opentype"), 
+		url("../fonts/Roboto-regular/roboto-regular.otf") format("opentype"), 
+		url("../fonts/Roboto-regular/roboto-regular.svg") format("svg"), 
+		url("../fonts/Roboto-regular/roboto-regular.ttf") format("truetype"), 
+		url("../fonts/Roboto-regular/roboto-regular.woff") format("woff"),
+		url("../fonts/Roboto-regular/roboto-regular.woff2") format("woff2");
+	font-weight: 400;
+	font-style: Regular;
+}
+
+
+@font-face {
+	font-family: "Roboto Medium";
+	src: url("../fonts/Roboto-medium/roboto-medium.eot");
+	src: url("../fonts/Roboto-medium/roboto-medium.eot?#iefix") format("embedded-opentype"), 
+		url("../fonts/Roboto-medium/roboto-medium.otf") format("opentype"), 
+		url("../fonts/Roboto-medium/roboto-medium.svg") format("svg"), 
+		url("../fonts/Roboto-medium/roboto-medium.ttf") format("truetype"), 
+		url("../fonts/Roboto-medium/roboto-medium.woff") format("woff"),
+		url("../fonts/Roboto-medium/roboto-medium.woff2") format("woff2");
+	font-weight: 500;
+	font-style: medium;
+}
+
